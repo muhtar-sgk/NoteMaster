@@ -6,3 +6,19 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+.form {
+    text-align: left;
+}
+
+.card {
+    text-align: left;
+    border: 1px solid #2C3E50;
+    border-radius: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.note {
+    padding: 5px;
+}
